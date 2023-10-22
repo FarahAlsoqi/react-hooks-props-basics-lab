@@ -1,5 +1,5 @@
 # Props Basics Lab
-
+ 
 ## Learning Goals
 
 - Use props to make a dynamic component template
@@ -35,7 +35,7 @@ Here is an image of what we want once we are finished:
 ```
 
 ## Deliverables
-
+ 
 It's recommended that you run `npm start` and work on this in the browser
 **before** running tests. Try to get your app to match the demo! Once you've
 built out the components below, run `npm test` to see if your code passes the
